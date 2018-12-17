@@ -1,4 +1,4 @@
-<table>
+<table border="0">
   <tr>
     <td>
       <h2>邹希</h2>
