@@ -7,7 +7,7 @@
       <p><b>邮箱：1620376932@qq.com</b>
       <p><b>地址：南京市江宁区佛城西路8号河海大学，勤学楼3310，邮编211100</b>
     </td>
-    <td width="22%">
+    <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%" height="20%">
     </td>
   </tr>
