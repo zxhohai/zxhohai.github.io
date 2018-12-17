@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/zxhohai/zxhohai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## 邹希
+#### 硕士研究生
+#### 河海大学计算机与信息学院
+#### 邮箱：18351966579
+#### 地址：江苏省南京市江宁区佛城西路8号河海大学    
 <img src="/zhengjianzhao.jpg" width="15%" height="15%">
+
+---
+
+邹希，男，2013年考入河海大学计算机与信息学院，攻读计算机科学与技术专业学士学位，2017年获工学学士学位后继续攻读计算机科学与技术专业硕士学位。攻读学士学位和硕士学位期间，学习能力强，成绩优异，基础知识扎实，动手能力强，具有较强创新能力，荣获学校特等学业奖学金，国家奖学金以及第五届“软件杯”全国总决赛三等奖等。攻读硕士学位以来，主要从事数据挖掘和文本处理方面的研究，参与了水利部公益专项“基于数据挖掘与驱动的中小河流洪水预报研究”和2018年国家重点研发计划“流域水资源管理与决策关键技术”等项目的研究，积累了一定的科研基础和水利领域实践的经验，具备本研究所需的理论基础与实践技能。
 
 ### Markdown
 
