@@ -24,7 +24,7 @@
 ---
 
 ### 最新消息
-1. 暂无
+1. 个人技术博客：[zxhohai的博客](https://blog.csdn.net/hohaizx)
 
 ### 研究方向
 - 文本挖掘
