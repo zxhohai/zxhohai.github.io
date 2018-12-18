@@ -10,7 +10,7 @@
       <a href="/index-en.md">英文版</a>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%" height="20%">
+      <img src="/zhengjianzhao.jpg" width="100%" height="25%">
     </td>
   </tr>
 </table>
