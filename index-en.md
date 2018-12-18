@@ -2,11 +2,11 @@
 <table border="0">
   <tr>
     <td>
-      <h1>邹希</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>河海大学计算机与信息学院</b></p>
-      <p><b>邮箱：1620376932@qq.com</b></p>
-      <p><b>地址：南京市江宁区佛城西路8号河海大学，勤学楼3310，邮编211100</b></p>
+      <h1>Zou Xi</h1>
+      <p><b>Master</b></p>
+      <p><b>College of Computer and Information, Hohai University</b></p>
+      <p><b>E-mail：1620376932@qq.com</b></p>
+      <p><b>Address：Rm3310, Qinxue Building, Hohai University, 8 Focheng West Road, Nanjing</b></p>
       <a href="/index.html">中文版</a>
     </td>
     <td width="25%">
